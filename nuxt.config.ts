@@ -7,5 +7,8 @@ export default defineNuxtConfig({
   },
   app: {
     baseURL: '/dm-landing/' // Replace with your repository name
-  }
+  },
+  css: [
+    'bootstrap/dist/css/bootstrap.min.css', // Add this line
+  ],
 })
