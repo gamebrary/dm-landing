@@ -17,7 +17,7 @@
 
           <!-- Team Management -->
           <div class="col-md-4">
-            <div class="card">
+            <div class="card mb-4">
               <img src="https://placehold.co/600x400" class="card-img-top" alt="Team Management">
               <div class="card-body">
                 <h5 class="card-title">Team Management</h5>
@@ -28,7 +28,7 @@
 
           <!-- Coach Administration -->
           <div class="col-md-4">
-            <div class="card">
+            <div class="card mb-4">
               <img src="https://placehold.co/600x400" class="card-img-top" alt="Coach Administration">
               <div class="card-body">
                 <h5 class="card-title">Coach Administration</h5>
@@ -39,7 +39,7 @@
 
           <!-- Field Positioning and Batting Order Management -->
           <div class="col-md-4">
-            <div class="card">
+            <div class="card mb-4">
               <img src="https://placehold.co/600x400" class="card-img-top" alt="Field Positioning and Batting Order">
               <div class="card-body">
                 <h5 class="card-title">Field Positioning & Batting Order</h5>
@@ -53,7 +53,7 @@
 
           <!-- Game Timing and Tracking -->
           <div class="col-md-4">
-            <div class="card">
+            <div class="card mb-4">
               <img src="https://placehold.co/600x400" class="card-img-top" alt="Game Timing and Tracking">
               <div class="card-body">
                 <h5 class="card-title">Game Timing & Tracking</h5>
@@ -64,7 +64,7 @@
 
           <!-- Field Positioning Per Inning -->
           <div class="col-md-4">
-            <div class="card">
+            <div class="card mb-4">
               <img src="https://placehold.co/600x400" class="card-img-top" alt="Field Positioning Per Inning">
               <div class="card-body">
                 <h5 class="card-title">Field Positioning Per Inning</h5>
@@ -75,7 +75,7 @@
 
           <!-- PlayMaker -->
           <div class="col-md-4">
-            <div class="card">
+            <div class="card mb-4">
               <img src="https://placehold.co/600x400" class="card-img-top" alt="PlayMaker">
               <div class="card-body">
                 <h5 class="card-title">PlayMaker</h5>
@@ -92,7 +92,7 @@
       <div class="container">
         <h2>Ready to master the dugout?</h2>
         <p class="lead">Join Dugout Master today and take your coaching to the next level.</p>
-        <a href="/signup" class="btn btn-light btn-lg">Sign Up Now</a>
+        <a href="https://app.dugoutmaster.com/signup" class="btn btn-light btn-lg">Sign Up Now</a>
       </div>
     </section>
 <!-- Demo Video Section -->
@@ -107,7 +107,7 @@
 </section>
 
     <!-- Pricing Section -->
-<!-- <section id="pricing" class="bg-primary text-white text-center py-5">
+<section id="pricing" class="bg-primary text-white text-center py-5">
   <div class="container">
     <h2 class="mb-4">Choose Your Plan</h2>
     <div class="row">
@@ -117,7 +117,7 @@
             <h5 class="card-title">Solo Plan</h5>
             <p class="card-text">$5/month</p>
             <p class="card-text">For individual coaches managing one team.</p>
-            <a href="/signup" class="btn btn-light">Sign Up</a>
+            <a href="https://app.dugoutmaster.com/" class="btn btn-light">Sign Up</a>
           </div>
         </div>
       </div>
@@ -127,7 +127,7 @@
             <h5 class="card-title">Club Plan</h5>
             <p class="card-text">$20/month</p>
             <p class="card-text">For clubs managing up to 10 teams.</p>
-            <a href="/signup" class="btn btn-light">Sign Up</a>
+            <a href="https://app.dugoutmaster.com/" class="btn btn-light">Sign Up</a>
           </div>
         </div>
       </div>
@@ -137,13 +137,13 @@
             <h5 class="card-title">Premium Plan</h5>
             <p class="card-text">$30/month</p>
             <p class="card-text">For clubs managing 10+ teams with extra features.</p>
-            <a href="/signup" class="btn btn-light">Sign Up</a>
+            <a href="https://app.dugoutmaster.com/" class="btn btn-light">Sign Up</a>
           </div>
         </div>
       </div>
     </div>
   </div>
-</section> -->
+</section>
 
 
     <!-- Testimonials Section -->
@@ -173,59 +173,6 @@
   </div>
 </section>
 
-
-    <footer class="bg-dark text-white py-4">
-    <div class="container">
-      <div class="row">
-
-        <!-- Logo & About -->
-        <div class="col-md-4">
-          <h5 class="text-uppercase mb-3">Dugout Master</h5>
-          <p>Your ultimate baseball team management tool. Simplify coaching, track player performance, and strategize with ease.</p>
-        </div>
-
-        <!-- Links Section -->
-        <div class="col-md-4">
-          <h5 class="text-uppercase mb-3">Quick Links</h5>
-          <ul class="list-unstyled">
-            <li><a href="/about" class="text-white">About Us</a></li>
-            <li><a href="/features" class="text-white">Features</a></li>
-            <li><a href="/pricing" class="text-white">Pricing</a></li>
-            <li><a href="/signup" class="text-white">Sign Up</a></li>
-            <li><a href="/login" class="text-white">Login</a></li>
-          </ul>
-        </div>
-
-        <!-- Contact & Social Media -->
-        <div class="col-md-4">
-          <h5 class="text-uppercase mb-3">Contact</h5>
-          <p>Email: <a href="mailto:support@dugoutmaster.com" class="text-white">support@dugoutmaster.com</a></p>
-          <p>Phone: +1 (800) 123-4567</p>
-          <div class="social-links">
-            <a href="https://twitter.com/dugoutmaster" target="_blank" class="text-white me-3">
-              <i class="fab fa-twitter"></i> Twitter
-            </a>
-            <a href="https://facebook.com/dugoutmaster" target="_blank" class="text-white me-3">
-              <i class="fab fa-facebook"></i> Facebook
-            </a>
-            <a href="https://instagram.com/dugoutmaster" target="_blank" class="text-white">
-              <i class="fab fa-instagram"></i> Instagram
-            </a>
-          </div>
-        </div>
-
-      </div>
-
-      <!-- Legal Information -->
-      <div class="text-center mt-4">
-        <small>
-          &copy; 2024 Dugout Master. All Rights Reserved. |
-          <a href="/privacy-policy" class="text-white">Privacy Policy</a> |
-          <a href="/terms-of-service" class="text-white">Terms of Service</a>
-        </small>
-      </div>
-    </div>
-  </footer>
   </div>
 </template>
 

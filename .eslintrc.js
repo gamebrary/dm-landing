@@ -8,7 +8,6 @@ module.exports = {
     'plugin:prettier/recommended',
   ],
   rules: {
-    // Customize any rules you'd like to enforce here
     'vue/valid-v-slot': 'off',
     'no-console': 'warn',
     'no-debugger': 'warn',
