@@ -1,0 +1,1 @@
+import{v as n,x as t,t as r}from"./DyTf8CeC.js";const s={class:"landing"},i={__name:"index",setup(a){const o=()=>{alert("Coming soon!")};return(l,e)=>(r(),n("div",s,[e[0]||(e[0]=t("h1",null,"Welcome to Dugout Master",-1)),e[1]||(e[1]=t("p",null,"Master the Dugout, Master the Game.",-1)),t("button",{onClick:o},"Learn More")]))}};export{i as default};
