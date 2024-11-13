@@ -3,6 +3,7 @@
     <h1>Welcome to Dugout Master</h1>
     <p>Master the Dugout, Master the Game.</p>
     <button @click="learnMore">Learn More</button>
+    <footer>Copyright 2024 Dugout Master</footer>
   </div>
 </template>
 
