@@ -29,7 +29,7 @@
           <!-- Coach Administration -->
           <div class="col-md-4">
             <div class="card mb-4">
-              <img src="https://placehold.co/600x400" class="card-img-top" alt="Coach Administration">
+              <img src="/public/coach-management.jpg" class="card-img-top" alt="Coach Administration">
               <div class="card-body">
                 <h5 class="card-title">Coach Administration</h5>
                 <p class="card-text">Take control of all your teams. Add or remove coaches, manage coaching assignments, and ensure that team members and staff have the appropriate roles for efficient operations.</p>
@@ -95,19 +95,20 @@
         <a href="https://app.dugoutmaster.com/signup" class="btn btn-light btn-lg">Sign Up Now</a>
       </div>
     </section>
-<!-- Demo Video Section -->
-<section id="demo" class="text-center py-5">
-  <div class="container">
-    <h2 class="mb-4">See Dugout Master in Action</h2>
-    <video class="w-100" controls>
-      <source src="https://www3.cde.ca.gov/download/rod/big_buck_bunny.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-</section>
+
+  <!-- TODO: add demo -->
+  <!-- <section id="demo" class="text-center py-5">
+    <div class="container">
+      <h2 class="mb-4">See Dugout Master in Action</h2>
+      <video class="w-100" controls>
+        <source src="https://www3.cde.ca.gov/download/rod/big_buck_bunny.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </section> -->
 
     <!-- Pricing Section -->
-<section id="pricing" class="bg-primary text-white text-center py-5">
+<!-- <section id="pricing" class="bg-primary text-white text-center py-5">
   <div class="container">
     <h2 class="mb-4">Choose Your Plan</h2>
     <div class="row">
@@ -143,11 +144,11 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 
     <!-- Testimonials Section -->
-<section id="testimonials" class="bg-light text-center py-5">
+<!-- <section id="testimonials" class="bg-light text-center py-5">
   <div class="container">
     <h2 class="mb-4">What Coaches Are Saying</h2>
     <div class="row">
@@ -171,7 +172,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
   </div>
 </template>
@@ -191,8 +192,9 @@ export default {
 
 <style scoped>
 .hero {
-  background: url('https://placehold.co/600x400') no-repeat center center;
+  background: url('/hero.png') no-repeat center center;
   background-size: cover;
+  height: 600px;
 }
 
 /* Call to Action Button Hover Effect */

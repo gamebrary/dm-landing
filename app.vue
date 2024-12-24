@@ -1,10 +1,10 @@
 <template>
   <div>
 <header>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
+    <nav class="navbar navbar-expand-lg navbar-dark shadow-sm bg-dark">
       <div class="container">
         <a class="navbar-brand" href="/">
-          <img src="https://dugoutmaster-68d9a.web.app/assets/logo-CyQ2y0hA.png" alt="Dugout Master" height="40" />
+          <img src="/logotype.png" alt="Dugout Master" height="80" class="p-2" />
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -27,10 +27,10 @@
               <a class="nav-link" href="/contact">Contact</a>
             </li>
             <li class="nav-item">
-              <a class="btn btn-primary ms-3" href="https://app.dugoutmaster.com/signup">Sign Up</a>
+              <a class="btn btn-light ms-3" href="https://app.dugoutmaster.com/signup">Sign Up</a>
             </li>
             <li class="nav-item">
-              <a class="btn btn-outline-primary ms-2" href="https://app.dugoutmaster.com/login">Log In</a>
+              <a class="btn btn-outline-light ms-2" href="https://app.dugoutmaster.com/login">Log In</a>
             </li>
           </ul>
         </div>
@@ -98,10 +98,6 @@
 <style scoped>
 .navbar {
   border-bottom: 2px solid #f1f1f1;
-}
-
-.navbar-brand img {
-  max-height: 40px;
 }
 
 .navbar-nav .nav-link {
