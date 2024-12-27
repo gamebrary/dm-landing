@@ -15,24 +15,25 @@
         <h2 class="text-center mb-5">Key Features</h2>
         <div class="row">
 
-          <!-- Team Management -->
-          <div class="col-md-4">
-            <div class="card mb-4">
-              <img src="https://placehold.co/600x400" class="card-img-top" alt="Team Management">
-              <div class="card-body">
-                <h5 class="card-title">Team Management</h5>
-                <p class="card-text">Effortlessly create and manage teams, track players, assign roles, and ensure smooth team coordination. Simplify your team's structure with an intuitive dashboard that makes team management a breeze.</p>
-              </div>
-            </div>
-          </div>
-
           <!-- Coach Administration -->
           <div class="col-md-4">
             <div class="card mb-4">
               <img src="/public/coach-management.jpg" class="card-img-top" alt="Coach Administration">
               <div class="card-body">
-                <h5 class="card-title">Coach Administration</h5>
-                <p class="card-text">Take control of all your teams. Add or remove coaches, manage coaching assignments, and ensure that team members and staff have the appropriate roles for efficient operations.</p>
+                <h5 class="card-title">Team & Coach Management</h5>
+                <p class="card-text">Manage teams and coaches with ease. Create teams, track players, assign roles, and coordinate smoothly while keeping coaching assignments organized and efficient.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="card mb-4">
+              <img src="/public/universal-support.jpg" class="card-img-top" alt="Coach Administration">
+              <div class="card-body">
+                <h5 class="card-title">Always Up-to-Date, Anywhere You Need It</h5>
+                <p class="card-text">
+                  Dugout Master doesn’t require any downloads or updates. It works instantly on laptops, tablets, and phones, so you can manage your team anywhere, anytime.
+                </p>
               </div>
             </div>
           </div>
@@ -40,7 +41,7 @@
           <!-- Field Positioning and Batting Order Management -->
           <div class="col-md-4">
             <div class="card mb-4">
-              <img src="https://placehold.co/600x400" class="card-img-top" alt="Field Positioning and Batting Order">
+              <img src="/public/inning-management.jpg" class="card-img-top" alt="Field Positioning and Batting Order">
               <div class="card-body">
                 <h5 class="card-title">Field Positioning & Batting Order</h5>
                 <p class="card-text">Easily manage your team's batting order and field positioning, adjust lineups on the fly, and optimize your players' positions based on their strengths and game strategy.</p>
@@ -54,7 +55,7 @@
           <!-- Game Timing and Tracking -->
           <div class="col-md-4">
             <div class="card mb-4">
-              <img src="https://placehold.co/600x400" class="card-img-top" alt="Game Timing and Tracking">
+              <img src="/public/coach-management.jpg" class="card-img-top" alt="Game Timing and Tracking">
               <div class="card-body">
                 <h5 class="card-title">Game Timing & Tracking</h5>
                 <p class="card-text">Keep track of game progress with real-time timing updates. Manage inning durations, breaks, and timeouts all within the app, ensuring smooth transitions between game events.</p>
@@ -65,7 +66,7 @@
           <!-- Field Positioning Per Inning -->
           <div class="col-md-4">
             <div class="card mb-4">
-              <img src="https://placehold.co/600x400" class="card-img-top" alt="Field Positioning Per Inning">
+              <img src="/public/coach-management.jpg" class="card-img-top" alt="Field Positioning Per Inning">
               <div class="card-body">
                 <h5 class="card-title">Field Positioning Per Inning</h5>
                 <p class="card-text">Customize player positions for each inning to adapt to your game strategy. With ease, you can reposition players and manage dynamic shifts as the game evolves.</p>
